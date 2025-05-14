@@ -12,6 +12,11 @@
 - 自动处理长查询语句（百度好像是只允许 35 汉字内还是嘛，一下子忘了。查询百度的时候会处理语法长度）
 - 实时显示搜索结果数量（这个不准，能力有限，慢慢改进）
 
+- 20250514更新版本 v1.1：
+  - 报告不再生成 txt
+  - 生成html报告
+  <img width="1415" alt="image" src="https://github.com/user-attachments/assets/bb763397-7490-4625-a483-c3b95901f0a3" />
+
 ## 工具使用截图
 <img width="1012" alt="image" src="https://github.com/user-attachments/assets/e7c700d2-4902-46ef-8999-b6e7d8af158b" />
 <img width="1020" alt="image" src="https://github.com/user-attachments/assets/82b9875c-472e-4370-94db-e0cfbe26980d" />
